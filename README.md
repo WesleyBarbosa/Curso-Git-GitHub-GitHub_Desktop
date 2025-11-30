@@ -1,9 +1,9 @@
-# Curso-Git-GitHub-GitHub_Desktop
+# **Curso Git e GitHub / GitHub Desktop**
 Neste(s) Repositório(s) Estarão materiais ensinados nas Formações de: Git, GitHub e GitHub Desktop.
 
 ## 📌 Roadmap – Curso de Git e GitHub (Curso em Vídeo)
 
-> Progresso atual: **8 / 13 aulas concluídas**
+> Progresso atual: **10 / 13 aulas concluídas**
 
 ### Módulo 1 – Fundamentos
 
@@ -22,7 +22,7 @@ Neste(s) Repositório(s) Estarão materiais ensinados nas Formações de: Git, G
 ### Módulo 3 – Recursos do GitHub
 
 - [x] 09. Você sabe usar Issues? – Curso de Git e GitHub - Também criação de Assinaturas em Saved Replies 
-- [ ] 10. Guia da Linguagem Markdown – Curso de Git e GitHub  
+- [x] 10. Guia da Linguagem Markdown – Curso de Git e GitHub  
 - [ ] 11. Seu GitHub muito mais seguro – Curso de Git e GitHub  
 - [ ] 12. Git Branches de forma fácil e com exemplo – Curso de Git e GitHub  
 - [ ] 13. Hospedagem Grátis no GitHub Pages – Curso de Git e GitHub  
