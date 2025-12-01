@@ -23,7 +23,7 @@ Neste(s) Repositório(s) Estarão materiais ensinados nas Formações de: Git, G
 
 - [x] 09. Você sabe usar Issues? – Curso de Git e GitHub - Também criação de Assinaturas em Saved Replies 
 - [x] 10. Guia da Linguagem Markdown – Curso de Git e GitHub  
-- [ ] 11. Seu GitHub muito mais seguro – Curso de Git e GitHub  
+- [x] 11. Seu GitHub muito mais seguro – Curso de Git e GitHub  
 - [ ] 12. Git Branches de forma fácil e com exemplo – Curso de Git e GitHub  
 - [ ] 13. Hospedagem Grátis no GitHub Pages – Curso de Git e GitHub  
 
